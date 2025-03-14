@@ -1,3 +1,4 @@
+![logo](https://github.com/samyakkumarsingh/samyakkumarsingh/blob/main/banner.webp)
 <h1 align="center">Hi 👋, I'm Samyak Kumar singh</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
